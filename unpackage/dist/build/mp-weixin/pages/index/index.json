@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "养鱼赚金币",
+  "usingComponents": {
+    "fish": "/components/xiaodiu-fish/xiaodiu-fish"
+  }
+}
